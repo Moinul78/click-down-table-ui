@@ -1,0 +1,10 @@
+{
+  "emmet.includeLanguages": {
+    "vue-html": "html"
+  },
+  "editor.cursorStyle": "line",
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.acceptSuggestionOnEnter": "smart"
+}
