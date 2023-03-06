@@ -1,7 +1,7 @@
-import userAssignee from "./Assets/UserAssignee.png"
+// import userAssignee from "./Assets/UserAssignee.png"
 const BackLogTable = () => {
   return (
-    <div className="container mx-auto">
+    <div className="container mt-20 overflow-auto justify-center text-center font-semibold items-center">
       <div className="relative  shadow-md sm:rounded-lg">
         <table className="w-full text-[0.688rem] text-left ">
           <thead className="uppercase ">
@@ -146,7 +146,7 @@ const BackLogTable = () => {
 
               </td>
               <td className=" pr-13.5">
-                <img src={userAssignee} alt="userAssignee" />
+                {/* <img src={userAssignee} alt="userAssignee" /> */}
               </td>
               <td className="flex justify-center items-center pr-3">
                 <div className="pr-1"><svg width="6" height="6" viewBox="0 0 6 6" fill="none" xmlns="http://www.w3.org/2000/svg">

@@ -1,7 +1,0 @@
-.back {
-  display: grid;
-  grid-template-columns: 1fr 1fr 4fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  white-space: nowrap;
-  justify-content: center;
-  align-items: center;
-}

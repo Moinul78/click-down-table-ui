@@ -7,6 +7,7 @@ const Status = () => {
       <div className=" w-[1.25rem] h-[1.25rem] pt-[0.7rem]">
         <img src={arrow}></img>
       </div></div>
+
   );
 };
 
